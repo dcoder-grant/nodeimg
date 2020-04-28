@@ -1,4 +1,4 @@
-FROM registry.redhat.io/rhscl/nodejs-12-rhel7:1-7
+FROM registry.redhat.io/rhscl/nodejs-12-rhel7:latest
 
 USER 0
 
